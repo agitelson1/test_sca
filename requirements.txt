@@ -1,1 +1,1 @@
-django-modeltranslatio=0.17.6
+django-modeltranslatio==0.17.6
